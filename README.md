@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sy1707
+- 👋 Hi, I’m Songül.
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning R and Python 
 - 📫 How to reach me songulyilmaz.1707@gmail.com
