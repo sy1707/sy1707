@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Songül.
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R and Python 
+- 👀 I’m interested in Data Analysis and Database Management.
+- 🌱 I’m currently learning R and Python.
 - 📫 How to reach me songulyilmaz.1707@gmail.com
 - ⚡ Fun fact: books, movies and sport.
 
